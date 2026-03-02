@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey there! I'm Maheswaram Subrahmanyam 👋</h1>
 
 <p align="center">
@@ -55,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheswaramsubrahmanyam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheswaramsubrahmanyam&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheswaramsubrahmanyam&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswaramsubrahmanyam&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maheswaramsubrahmanyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheswaramsubrahmanyam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 ---
@@ -68,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maheswaramsubrahmanyam&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maheswaramsubrahmanyam&theme=nord&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
@@ -76,7 +74,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswaramsubrahmanyam&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheswaramsubrahmanyam&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -87,7 +85,7 @@
   <a href="https://linkedin.com/in/maheswaramsubrahmanyam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:maheswaramsubrahmanyam@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#6e030f060b1d190f1c0f031d1b0c1c0f06030f00170f032e09030f0702400d0103">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/maheswaramsubrahmanyam">
@@ -102,5 +100,4 @@
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/maheswaramsubrahmanyam">maheswaramsubrahmanyam</a>
-</p>
+  ⭐️ From <a href="https://github.com/m
